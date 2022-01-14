@@ -1,0 +1,70 @@
+password:
+9599046971a@
+https://smallpdf.com/jpg-to-pdf
+
+Angular
+https://fontawesome.com/v4.7.0/examples/#
+https://ng-demo.mdbootstrap.com/forms/forms
+
+http://portal.techforceglobal.com/
+https://app.slack.com/client/TJRS36UNS/D018NTP6D97
+
+https://app.docusign.com/documents/details/c0c7a90f-6a22-45d2-b0b1-413a950e53e2
+
+https://outlook.office.com/mail/inbox/id/AAQkADY0MmZhM2U5LTE4ZjktNGM2YS1hMzMxLWEyNjZkZjM0NTVlNgAQAO1Q4ETyDttPnKxW1dMdgF0%3D
+
+
+http://portal.techforceglobal.com/
+
+Join the online meeting: https://join.startmeeting.com/satheeshabhiram
+
+https://stackblitz.com/edit/angular-array-push-pop
+git checkout HEAD -- my-file.txt
+
+https://www.w3schools.com/icons/fontawesome_icons_webapp.asp
+//////////////////////////////////////////////Git Command Using CMD////////////////
+ng serve --project user-portal --prod
+
+user name on git-hub  ashishksingh89 
+ng update @angular/cli@8 @angular/core@8
+1 git status
+2 git add hhoa-api using tab we can change project in same folder to add for commit.
+3 git add hhoa-web
+4 git commit -m"committing code for cr edit,mr edit and renter modules"
+5 git pull upstream master (from mater branch).
+6 git remote -v
+7 git push origin master
+8 go to github account create new pull request
+9 raise MR 
+
+
+
+
+
+
+////////////////
+
+
+QA Server's all three portal's.
+ 
+
+
+
+Group-Portal:
+URL: http://10.64.16.52:83/group-portal
+Email:
+g1@quadprosoft.com
+pwd: hhoa@123
+ 
+
+User-Portal:
+URL: http://10.64.16.52:83/user-portal
+Email:
+ho1g1@quadprosoft.com to ho6g1@quadprosoft.com
+pwd: hhoa@123
+
+System-Portal:
+URL: http://10.64.16.52:83/system-portal
+Email:
+sa@quadprosoft.com
+pwd: hhoa@123

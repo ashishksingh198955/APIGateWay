@@ -1,0 +1,172 @@
+1=https://bezkoder.com/spring-boot-jwt-authentication/
+https://www.knack.com/templates/employee-reviews
+https://stackoverflow.com/questions/5619801/spring-security-multiple-roles-for-a-single-user
+https://medium.com/@mool.smreeti/microservices-with-spring-boot-authentication-with-jwt-and-spring-security-6e10155d9db0
+https://www.javaguides.net/2018/09/spring-boot-spring-mvc-role-based-spring-security-jpa-thymeleaf-mysql-tutorial.html
+call microservice from zuul gate way api
+https://www.youtube.com/watch?v=2BcmN6TG_No
+https://www.youtube.com/watch?v=6aG0xFpeNFw
+https://www.browserling.com/tools/bcrypt
+https://medium.com/angular-in-depth/angular-routing-reusing-common-layout-for-pages-from-different-modules-440a23f86b57
+https://stackblitz.com/edit/angular-close-side-nav-on-button-click?file=app%2Fsidenav-responsive-example.html
+
+
+
+NEO credit card 250 charge yearly if spend 2500 in 45days then it will wave 250 rs aslo will get 1100 rs ka voucher
+INSERT INTO `efbs`.`userprofileinfo` (`firstname`, `lastname`, `gender`, `position`, `contact`, `division`, `email`, `password`) VALUES ('snehal', 'shah', 'male', 'CEO', '6546234731', 'IT', 'testsystemadmin@gmail.com', '$2a$10$Qj7hnEfFUuCeTGOCdcQxwuw.SEQyAolp4x/byKfWgnD4Hheceu0kK');
+
+Employee Feedback System
+
+ 
+
+
+1. Company Registration
+   
+Company Name*
+   
+Company Address*
+   
+Company Website
+   
+Company Size - Numbers Only
+   
+   
+Once the company is registered, an auto generated ID will be assign to company.
+
+   
+
+2. Employee On boarding Module
+- 
+Employee Details
+  - 
+Email Address* (Unique)
+  
+First Name*
+ 
+Last Name*
+  
+Middle Name
+  
+Phone Number*
+  
+Company ID
+*  
+
+
+3. Following roles are needed in the system
+-
+ System Admin
+
+ Company Admin
+ 
+ Company HR
+
+ Employee
+https://medium.com/tech-tajawal/microservice-authentication-and-authorization-solutions-e0e5e74b248a
+https://stackoverflow.com/questions/50387947/inter-micro-service-request-responds-with-forbidden-status-in-spring-cloud-appli
+https://stackoverflow.com/questions/64602944/api-gateway-centralized-authentication-and-authorization
+https://github.com/katopz/best-practices/blob/master/best-practices-for-building-a-microservice-architecture.md
+
+1. What is purpose of Employee Feedback System application, I mean why we are building this application.
+
+- Employee Onboarding
+- Collecting Feedback for Quarterly Review, Yearly Review, Training Feedback etc.
+ 
+
+
+
+
+2. What type of technologies we are going to use to build this application for example like DB,Front-end and Back-end side.
+
+- Angular 9
+- Spring Cloud based technology
+- MySQL 
+
+ 
+
+
+3. What action System Admin can take? 
+
+- Company Registration
+- View various reports in future
+- Setting up system specific settings
+ 
+
+
+4. What action Company Admin can take ?  
+ 
+- Everything related to company and employee management
+ 
+
+ 
+
+
+5. What action Company HR and Employee can take ? 
+
+- Company HR - Initiate a various review and feedback need 
+
+- Employee - Fill Review and Update own profile
+
+ 
+
+
+6. If Company ID was not given at the time of Add new Employee how that Employee will be recognize to which company that employee belongs.If Company ID is not mandatory in Employee Details form.
+
+- It is mandatory for Employee Registration
+ 
+
+
+
+
+7. What will be design for Data Base.
+
+- That you need to do it as per the information received here
+ 
+
+ 
+
+
+8. How many role one employee can have. 
+
+- Company HR, Employee & Company Admin
+
+ 
+
+
+
+9. Company will be register using UI or through the script.
+- UI
+ 
+
+ 
+
+
+10.What is UI design for this application.
+
+
+
+https://builder.knack.com/techforceglobal/employee-reviews-install#data/object_8/records- Need to grab some free template or free Angular ready to use template
+
+
+
+
+
+1 url code qr code
+2 signi amaozan app 
+3 
+
+
+
+////angular project cmd
+https://www.techiediaries.com/angular-material-navigation-toolbar-sidenav/
+npm install --save @auth0/angular-jwt
+npm install --save jwt-decode
+npm i ngx-logger
+npm install datatables.net-bs4
+
+to fix bellow issue
+An unhandled exception occurred: Cannot find module '@angular-devkit/build-angular/package.json'
+======================================================
+npm install --save-dev @angular-devkit/build-angular
+npm install
+ng serve -o
